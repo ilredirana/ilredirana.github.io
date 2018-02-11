@@ -4,7 +4,7 @@ title:      Tensorflow estimator 训练和迁移学习（一）
 subtitle:   以mnist数据集做训练
 date:       2018-02-06
 author:     Rana
-header-img: img/blog_img/post-bg-laptop.jpg
+header-img: img/blog_img/post-bg-rail.jpg
 catalog: true
 tags:
     - tensorflow
