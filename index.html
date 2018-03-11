@@ -14,7 +14,7 @@ description: "Stay young, stay simple"
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
+        <div class="post-content-preview" style="word-break: break-all;">
             {{ post.content | strip_html | truncate:200 }}
         </div>
     </a>
